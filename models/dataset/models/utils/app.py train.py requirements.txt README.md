@@ -1,1 +1,8 @@
 
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+flask
+ 
