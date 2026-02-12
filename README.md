@@ -1,5 +1,4 @@
-# Smart-Flood-Guard
-AI &amp; IoT Based Flood Prediction System using LSTM &amp; Transformer
+
 # Smart Flood Guard 🌊
 
 AI & IoT Based Flood Prediction System using LSTM and Transformer.
